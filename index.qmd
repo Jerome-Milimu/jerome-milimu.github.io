@@ -1,0 +1,15 @@
+---
+title: "Jerome Wendoh Milimu"
+image: Github_photo.jpg
+about:
+  template: jolla
+  links:
+    - icon: linkedin
+      text: LinkedIn
+      href: https://www.linkedin.com/in/jerome-wendoh-milimu/
+    - icon: github
+      text: Github
+      href: https://github.com/Jerome-Milimu/
+---
+
+"I am deeply committed to utilizing data-driven methodologies centered on individuals to enhance health and well-being outcomes across Africa and globally."

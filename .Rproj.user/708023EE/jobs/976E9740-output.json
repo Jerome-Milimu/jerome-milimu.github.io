@@ -1,0 +1,6 @@
+[1,"==> quarto preview portfolio.qmd --to html --no-watch-inputs --no-browse\n\n"]
+[1,"pandoc \n  to: html\n  output-file: portfolio.html\n  standalone: true\n  title-prefix: Jerome Wendoh Milimu\n  section-divs: true\n  html-math-method: mathjax\n  wrap: none\n  default-image-extension: png\n  css:\n    - styles.css\n  \nmetadata\n  document-css: false\n  link-citations: true\n  date-format: long\n  lang: en\n  editor: visual\n  theme: cosmo\n  title: My Portfolio\n  listing:\n    contents: posts\n    sort: date desc\n    type: default\n    categories: true\n    sort-ui: false\n    filter-ui: false\n  page-layout: full\n  title-block-banner: true\n  \n"]
+[1,"Output created: _site\\portfolio.html\n\n"]
+[1,"Terminating existing preview server....DONE\n\nPreparing to preview\n"]
+[1,"\nWatching files for changes\nBrowse at http://localhost:4333/portfolio.html\n"]
+[1,"GET: /portfolio.html\n"]
