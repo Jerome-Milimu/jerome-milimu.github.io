@@ -3,7 +3,7 @@
     "path": "~/GitHub/jerome-milimu.github.io/cv.qmd",
     "project_path": "cv.qmd",
     "type": "quarto_markdown",
-    "hash": "0",
+    "hash": "2740712342",
     "contents": "",
     "dirty": false,
     "created": 1713898243446.0,
@@ -16,16 +16,16 @@
         "Source": "Source",
         "docOutlineVisible": "1",
         "rmdVisualCollapsedChunks": "",
-        "cursorPosition": "1,0",
+        "cursorPosition": "2,0",
         "scrollLine": "0",
         "rmdVisualModeLocation": "2:0"
     },
     "folds": "",
-    "lastKnownWriteTime": 1713903624,
+    "lastKnownWriteTime": 1713956656,
     "encoding": "UTF-8",
     "collab_server": "",
     "source_window": "",
-    "last_content_update": 1713903624495,
+    "last_content_update": 1713956656634,
     "read_only": false,
     "read_only_alternatives": []
 }
